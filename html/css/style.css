@@ -573,7 +573,11 @@ button {
     text-transform: uppercase;
     text-align: center;
     font-weight: bold;
-    padding-bottom: 0px;
+    padding: 10px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 100%;
 }
 
 .about_taital_box {
